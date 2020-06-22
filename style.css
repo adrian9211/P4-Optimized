@@ -17,7 +17,12 @@ a:hover {
     text-decoration: none;
     cursor: pointer;
 }
-
+h4 {
+    font-size: 1.6em;
+}
+.paragraf {
+    font-size: 2.5em;
+}
 #page-loading-blocs-notifaction {
     position: fixed;
     top: 0;
@@ -639,6 +644,16 @@ a[data-lightbox]:hover img {
     background: none;
 }
 
+.site-navigation li a {
+    font-family: "helvetica";
+    font-weight: 400;
+    color: #0e0404!important;
+}
+li a {
+    font-family: "helvetica";
+    font-weight: 400;
+    color: #f5eeee!important;
+}
 h1,
 h2,
 h3,
@@ -651,7 +666,7 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757!important;
+    color: #070404!important;
 }
 
 .container {
@@ -781,7 +796,7 @@ h4 {
 }
 
 .tc-white {
-    color: #364577!important;
+    color: #eff1f8!important;
 }
 
 .btn-atomic-tangerine {
