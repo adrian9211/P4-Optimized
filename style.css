@@ -708,6 +708,7 @@ p {
     font-family: "Open Sans";
 }
 
+
 .cta-hero {
     margin-top: 22px;
     color: #FFFFFF!important;
@@ -803,13 +804,14 @@ h4 {
 }
 
 .btn-atomic-tangerine {
-    background: #F3976C;
+    background: #e9520c;
     color: #FFFFFF!important;
 }
 
 .btn-atomic-tangerine:hover {
-    background: #c27956!important;
-    color: #FFFFFF!important;
+    background: #f7dcce!important;
+    color: #080101!important;
+    
 }
 
 .ltc-white {
