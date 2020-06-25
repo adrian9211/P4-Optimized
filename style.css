@@ -9,8 +9,10 @@ body {
 
 a,
 button {
+    padding: 10px;
     transition: all .3s ease-in-out;
     outline: none!important;
+    background-clip: content-box;
 }
 
 a:hover {
@@ -653,6 +655,7 @@ a[data-lightbox]:hover img {
     color: #0e0404!important;
 }
 li a {
+    display: block;
     font-family: "helvetica";
     font-weight: 400;
     color: #f5eeee!important;
